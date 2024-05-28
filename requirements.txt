@@ -1,0 +1,7 @@
+numpy
+pickle-mixin
+Flask
+pandas
+scikit-learn
+warnings
+seaborn

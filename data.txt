@@ -1,0 +1,17 @@
+[
+    {
+      "Application mode": 8,
+      "Displaced": 1,
+      "Debtor": 0,
+      "Tuition fees up to date": 1,
+      "Gender": 1,
+      "Scholarship holder": 0,
+      "Age at enrollment": 20,
+      "Curricular units 1st sem (enrolled)": 0,
+      "Curricular units 1st sem (approved)": 0,
+      "Curricular units 1st sem (grade)": 0,
+      "Curricular units 2nd sem (enrolled)": 0,
+      "Curricular units 2nd sem (approved)": 0,
+      "Curricular units 2nd sem (grade)": 0
+    }
+  ]
