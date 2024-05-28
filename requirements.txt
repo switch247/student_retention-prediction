@@ -4,9 +4,9 @@ pickle-mixin
 Flask
 pandas==2.2.2
 scikit-learn==1.5.0
-warnings
 seaborn
 
+# warnings
 
 
 # numpy==1.21.6
