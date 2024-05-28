@@ -15,3 +15,9 @@
       "Curricular units 2nd sem (grade)": 0
     }
   ]
+
+  refer here 
+  ```
+  https://www.kaggle.com/code/sunayanagawde/ml-algorithms-usage-and-prediction/input
+
+  ```
