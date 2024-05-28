@@ -3,7 +3,7 @@ numpy
 pickle-mixin
 Flask
 pandas
-scikit-learn
+cikit-learn==1.5.0
 warnings
 seaborn
 
