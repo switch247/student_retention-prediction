@@ -1,15 +1,17 @@
 [
     {
-      "Application mode": 8,
+      "Application mode": 1 - 8 (catagorical),
       "Displaced": 1,
       "Debtor": 0,
       "Tuition fees up to date": 1,
       "Gender": 1,
       "Scholarship holder": 0,
       "Age at enrollment": 20,
+
       "Curricular units 1st sem (enrolled)": 0,
       "Curricular units 1st sem (approved)": 0,
       "Curricular units 1st sem (grade)": 0,
+
       "Curricular units 2nd sem (enrolled)": 0,
       "Curricular units 2nd sem (approved)": 0,
       "Curricular units 2nd sem (grade)": 0
@@ -21,3 +23,18 @@
   https://www.kaggle.com/code/sunayanagawde/ml-algorithms-usage-and-prediction/input
 
   ```
+
+
+
+Application mode: The method of application used by the student. (Categorical) 1-18
+Displaced: Whether the student is a displaced person. (Categorical )0|1
+Debtor: Whether the student is a debtor. (Categorical) 0|1
+Tuition fees up to date: Whether the student's tuition fees are up to date. (Categorical)01
+Gender: The gender of the student. (Categorical) 0|1
+Scholarship holder: Whether the student is a scholarship holder. (Categorical) 0|1
+Age at enrollment: The age of the student at the time of enrollment. (Numerical) 17- 70
+
+
+Curricular units 1st sem (enrolled): The number of curricular units enrolled by the student in the first semester. (Numerical) 0-26
+Curricular units 1st sem (approved): The number of curricular units approved by the student in the first semester. (Numerical) 0-26
+Curricular units 1st sem (grade). (Numerical)  0-18.9
